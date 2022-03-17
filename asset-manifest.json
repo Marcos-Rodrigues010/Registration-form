@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Marcos-Rodrigues010/Registration-form/static/css/main.5b951330.css",
+    "main.js": "/Marcos-Rodrigues010/Registration-form/static/js/main.f6b930e1.js",
+    "index.html": "/Marcos-Rodrigues010/Registration-form/index.html",
+    "main.5b951330.css.map": "/Marcos-Rodrigues010/Registration-form/static/css/main.5b951330.css.map",
+    "main.f6b930e1.js.map": "/Marcos-Rodrigues010/Registration-form/static/js/main.f6b930e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b951330.css",
+    "static/js/main.f6b930e1.js"
+  ]
+}
