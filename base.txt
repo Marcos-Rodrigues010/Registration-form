@@ -1,0 +1,11 @@
+Formulário de cadastro de pacientes de uma clinica
+- nome (obrigatório)
+- cpf (único e obrigatório. filrar entre os existentes)
+- data de nascimento 
+- peso (em kg)
+- altura (em metros)
+- UF (vindos de uma requisição. obrigatório) endpoint = https://servicodados.ibge.gov.br/api/v1/localidades/estados
+
+Se der tempo: usar lib LeafletJS para criar um mapa dque mostrará a qtd de pessoas em cada estados
+
+implementar sistema de autorização. Médicos tem livre manipulação de usuários cadastrados. Enfermeiros apenas adicionam outros usuários
